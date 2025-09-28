@@ -1,0 +1,7 @@
+div{
+    display: flex;
+}
+.two{
+    justify-content: right;
+    
+}
